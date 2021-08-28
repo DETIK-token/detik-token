@@ -1,7 +1,7 @@
 pragma solidity ^0.6.12;
 
 /* 
-*  Website: https://detik.io
+*  Website: https://detik.ai
 *  Telegram: https://t.me/DETIKTokenOfficial
 *
 *  Features
